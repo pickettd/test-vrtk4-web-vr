@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "vrtk-4_test-2018_3_12",
+"dataUrl": "__web.data.unityweb",
+"wasmCodeUrl": "__web.wasm.code.unityweb",
+"wasmFrameworkUrl": "__web.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
